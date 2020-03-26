@@ -1,2 +1,2 @@
 # forkprtest
-test
+etest
